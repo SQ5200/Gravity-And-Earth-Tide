@@ -1,4 +1,4 @@
-# Gravity-And-Earth-Tide Assignment
+# Gravity-And-Earth-Tide 
 2020 autumn USTC
 
 Prof.JinShui Huang 
